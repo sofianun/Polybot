@@ -1,0 +1,31 @@
+if False
+print "---"
+elif 3 > 4
+print "---"
+elif 5 == 5
+print "yes"
+else
+print "---"
+endif
+
+if 5 < 7
+print "yes"
+endif
+
+if 5 > 7
+print "no"
+elif 5 != 5
+print "no"
+else
+print "yes"
+endif
+
+if -4.5 < -8.9
+print "no"
+elif True
+if 0 > 5
+print "no"
+else
+print "yes"
+endif
+endif

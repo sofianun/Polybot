@@ -1,0 +1,24 @@
+p := [1 1  4 0  5 -3  2 -2]
+color p, {0 0.11 0.266}
+print p
+vertices p
+perimeter p
+area p
+centroid p
+
+print "Regulars?"
+regular p
+regular [0 0  0 2  2 2  2 0]
+
+print "Punts interiors?"
+a := [2 0]
+b := [4 -2]
+c := [5 -1]
+inside a, p
+inside b, p
+inside c, p
+
+//Dibuixem
+u := a + b + c
+color u, {0.047 0.3411 0.4627}
+draw "im1.png", p, u
