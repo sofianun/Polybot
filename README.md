@@ -27,7 +27,7 @@ Aneu a l'aplicació Telegram i parleu amb el bot @ConvexPolybot.
 
 En primer lloc, envieu /start per iniciar la conversa
 
-![Start](/0.png)
+![Start](0.png)
 
 A continuació, podeu enviar /poly seguit de les vostres comandes
 
