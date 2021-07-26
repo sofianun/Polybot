@@ -27,29 +27,29 @@ Aneu a l'aplicació Telegram i parleu amb el bot @ConvexPolybot.
 
 En primer lloc, envieu /start per iniciar la conversa
 
-![Start](0.png)
+![Start](/0.PNG)
 
 A continuació, podeu enviar /poly seguit de les vostres comandes
 
-![Exemple donat](/1.png)
-![Resposta del bot](/2.png)
+![Exemple donat](/1.PNG)
+![Resposta del bot](/2.PNG)
 
 Altres exemples:
 - Exemple 1
 
-![Exemple 1](/3.png)
-![Resposta del bot](/4.png)
+![Exemple 1](/3.PNG)
+![Resposta del bot](/4.PNG)
 
 - Exemple 2
 
-![Exemple 2](/5.png)
-![Resposta del bot part 1](/6.png)
-![Resposta del bot part 2](/7.png)
-![Resposta del bot part 3](/8.png)
+![Exemple 2](/5.PNG)
+![Resposta del bot part 1](/6.PNG)
+![Resposta del bot part 2](/7.PNG)
+![Resposta del bot part 3](/8.PNG)
 
 - Exemple 3
 
-![Exemple 3](/9.png)
+![Exemple 3](/9.PNG)
 
 Podeu trobar els exemples en format txt dins la carpeta bot
 
